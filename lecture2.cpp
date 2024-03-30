@@ -3,8 +3,7 @@ using namespace std;
 
 int main(){
 
-    // cout << "I am going to be a coder in few time";
-    // cout << "\nHarman is good human being\n";
+                                // #size of operator
 
     // int a=10;
     // cout << a << endl;
@@ -19,7 +18,7 @@ int main(){
     // cout << sizeof(b) << endl;
     // cout << sizeof(c) << endl;
     
-    // A program to check greater of two numbers
+                                    // A program to check greater of two numbers
     
     // int a,b;
     // cout << "Print the value of a" <<endl;
@@ -34,7 +33,7 @@ int main(){
     // }
 
 
-    //A program to check weather a given number entered is positive negative or zero
+                                //A program to check weather a given number entered is positive negative or zero
     
     int a;
     cout << "Enter the value of A" << endl;
