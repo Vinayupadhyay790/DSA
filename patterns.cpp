@@ -180,4 +180,71 @@
     //     row += 1;
     // }
 
+
+                            // #Pattern 8
+
+    // int n;
+    // cout << "Enter number of rows in pattern: ";
+    // cin >> n;
+    // int i = 1;
+    // while (i <= n) {
+    //     int j = 1;
+    //     while (j <= i) {
+    //         cout << (i - j + 1) << " ";
+    //         j++;
+    //     }
+    //     cout << endl; // Print a newline after each row
+    //     i++; // Increment i within the outer loop
+    // }
+
+
+                    // #Pattern 9
+    
+    // int n;
+    // cout << " Enter number of rows of pattern: " ;
+    // cin >> n;
+    // char ch='A';
+    // int i = 1;
+    // while (i<=n)
+    // {
+        
+    //     int j =1;
+    //     while (j<=n)
+    //     {
+    //         cout << ch << " ";
+            
+    //         j++;
+    //     }
+    //     ch++;
+    //     cout<< endl;
+    //     i++;
+    // }
+
+
+
+                    // #Pattern 10
+    
+    int n;
+    cout << " Enter number of rows of pattern: " ;
+    cin >> n;
+    char ch='A';
+    int i = 1;
+    while (i<=n)
+    {
+        
+        int j =1;
+        while (j<=n)
+        {
+            cout << ch << " ";
+            
+            j++;
+            ch++;
+        }
+        
+        cout<< endl;
+        i++;
+    }
+    
+
+
 }
